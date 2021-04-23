@@ -1,1 +1,1 @@
-web: source setup.sh && python Sai-SentimentalAnalysis-with-Gradio.py
+web: source setup.sh && python app.py
