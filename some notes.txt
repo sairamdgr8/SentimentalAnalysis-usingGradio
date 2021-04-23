@@ -1,0 +1,36 @@
+https://github.com/JohnSnowLabs/spark-nlp
+
+https://colab.research.google.com/github/JohnSnowLabs/spark-nlp-workshop/blob/master/tutorials/streamlit_notebooks/SENTIMENT_EN.ipynb?authuser=4
+
+https://raw.githubusercontent.com/JohnSnowLabs/spark-nlp/master/scripts/colab_setup.sh
+
+https://demo.johnsnowlabs.com/public/SENTIMENT_EN/
+
+https://youtu.be/fEU37G70SFc
+
+https://github.com/JohnSnowLabs/spark-nlp/tree/master/python
+
+=========================================
+
+my steps to check twitter keys
+
+https://developer.twitter.com/en/portal/projects/1381606856594923520/apps/20586962/keys
+
+
+
+********************* front end   Gradio library *****************
+
+https://towardsdatascience.com/gradio-graphical-interfaces-for-machine-learning-models-fd4880964f8f
+
+https://www.youtube.com/watch?v=wruyZWre2sM&t=193s
+
+
+
+
+****************************** sentiment analysis learning......************************************
+
+https://monkeylearn.com/blog/sentiment-analysis-machine-learning/
+
+https://www.youtube.com/watch?v=o_OZdbCzHUA
+
+https://www.gradio.app/ml_examples
