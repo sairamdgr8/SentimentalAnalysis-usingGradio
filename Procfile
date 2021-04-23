@@ -1,0 +1,1 @@
+web: gunicorn Sai-SentimentalAnalysis-with-Gradio:app
