@@ -34,3 +34,7 @@ https://monkeylearn.com/blog/sentiment-analysis-machine-learning/
 https://www.youtube.com/watch?v=o_OZdbCzHUA
 
 https://www.gradio.app/ml_examples
+
+===================== deployment on heroku-------------
+
+https://towardsdatascience.com/how-to-deploy-a-machine-learning-ui-on-heroku-in-5-steps-b8cd3c9208e6

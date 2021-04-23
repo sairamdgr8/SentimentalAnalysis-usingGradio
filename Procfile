@@ -1,1 +1,1 @@
-web: gunicorn Sai-SentimentalAnalysis-with-Gradio:app
+web: source setup.sh && python Sai-SentimentalAnalysis-with-Gradio.py
