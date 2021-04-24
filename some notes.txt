@@ -24,6 +24,14 @@ https://towardsdatascience.com/gradio-graphical-interfaces-for-machine-learning-
 
 https://www.youtube.com/watch?v=wruyZWre2sM&t=193s
 
+----------------------- hroku  git ------------
+
+https://stackoverflow.com/questions/43378060/meaning-of-the-github-message-push-declined-due-to-email-privacy-restrictions
+
+https://stackoverflow.com/questions/26595874/i-want-make-push-and-get-error-src-refspec-master-does-not-match-any
+
+https://devcenter.heroku.com/articles/git
+
 
 
 
