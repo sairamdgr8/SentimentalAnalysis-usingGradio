@@ -6,6 +6,7 @@
 
 
 #!pip install gradio
+#!pip instal textblob
 
 
 # In[2]:
